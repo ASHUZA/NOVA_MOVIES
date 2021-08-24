@@ -117,11 +117,6 @@ const PageTv = (props) => {
       />
 
 
-      <SectionProfil
-        src={dataProfil.poster_path}
-
-      />
-
 
 
 

@@ -63,7 +63,7 @@ function SectionFooter() {
 
                 <div className="col-lg-4 col-md-6">
                   <div className="footer-info">
-                    <h3>ALL MOVIES</h3>
+                    <h3>NOVA MOVIES</h3>
                     <p>
                       47 Budjala Kintamno<br />
         KINSHASA, RDC<br /><br />
