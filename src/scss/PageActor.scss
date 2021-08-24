@@ -1,0 +1,88 @@
+.maincard{
+  height: 360px;
+  width: 250px;
+  margin-bottom: 20px;
+
+ // background-color: #cc1616;
+}
+
+.courses .course-item {
+    border-radius: 5px;
+  margin-bottom: 10px;
+  //  border: 1px solid #eef0ef;
+    margin-top: 5px;
+
+
+    
+  }
+
+
+  
+  .courses .course-content {
+    height: 360px;
+    width: 200px; ;
+    background-color: rgb(60, 60, 61);
+    padding: 5px;
+    margin-top: 5px;
+  }
+
+  .courses .course-content .course_image {
+    
+   // background-color: adjust-hue($color: #ffbb2a, $degrees: 0);
+  }
+  
+  
+  .courses .course-content h3 {
+    height: 40px;
+    font-weight: 700;
+    font-size: 14px;
+    margin-top: 4px;
+  //  background-color: #fff;
+  }
+  
+  .courses .course-content h3 a {
+   // color: #37423b;
+    color: #ffffff;
+    transition: 0.3s;
+    
+  }
+  
+  .courses .course-content h3 a:hover {
+    color:  #ed5b5b;
+  }
+  
+  .courses .course-content h4 {
+    font-size: 12px;
+    background: #cc1616;
+    padding: 7px 10px;
+    color: #fff;
+    margin: 0;
+  }
+  
+  
+  
+  .courses .trainer {
+    padding-top: 2px;
+    height: 30px;
+   // background-color: rgb(90, 186, 21);
+  //  border-top: 1px solid #eef0ef;
+  }
+  
+  .courses .trainer .trainer-profile img {
+   
+    }
+  
+  .courses .trainer .trainer-rank {
+    font-size: 14px;
+   // color: #657a6d;
+    color: #ffffff;
+  }
+
+  .movieid{
+    display: none;
+  }
+
+
+
+
+  

@@ -1,0 +1,160 @@
+.sectionprofil{
+    
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+   //background-color: rgb(110, 220, 66);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    
+
+}
+
+.image_profil_detail{
+   padding-right: 20px;
+   height: 350px;
+ //   width: 300px;
+    padding-bottom: 20px ;
+}
+.SectionVideo{
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.profil_block{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+
+.cardprofil{
+    //height: 420px;
+    border-radius: 30px;
+    padding-top: 10px;
+    padding-left: 20px;
+    
+  //  background-color: rgb(255, 255, 255);
+
+}
+
+.cardvideo{
+    height: 450px;
+ padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+
+    //background-color: rgb(224, 62, 62);
+}   
+.videogb {
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    background-color: rgb(12, 15, 27);
+   
+}
+
+.videoplay{
+    // background-color: #fff;
+    // height: 320px;
+
+}
+
+.blockprofil{
+
+
+}
+
+.cardinfo{
+
+    padding: 20px;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(12, 15, 27);
+    display: flex;
+    // justify-content: space-evenly;
+    overflow: hidden;
+  //  height: 500px;
+    }
+
+.imgfilm{
+  //  height: 350px ;
+   // width: 1200px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+}
+
+.cardimg{
+
+    height: 360px ;
+//background-color: rgb(214, 29, 29);
+  }
+
+h2{
+
+    font-size: 16px;
+    font-family: 'Montserrat';
+    text-transform: uppercase;
+    text-align: left;
+    font-weight: 500;
+   text-transform: uppercase;
+}
+
+h2 span{
+
+    font-size: 20px;
+
+}
+
+
+
+
+
+
+
+//SECTION VIDEO
+
+
+
+.Cardtraillerscroller{
+
+    height: 450px;
+
+    overflow-x: scroll;
+    overflow-y: hidden;
+    scrollbar-color: rebeccapurple green;
+    scrollbar-width: thin;
+}
+
+
+
+.Cardtraillerscroller::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.9);
+	border-radius: 10px;
+	background-color: #CCCCCC;
+}
+
+.Cardtraillerscroller::-webkit-scrollbar
+{
+	width: 12px;
+	background-color: #F5F5F5;
+}
+
+.Cardtraillerscroller::-webkit-scrollbar-thumb
+{
+	border-radius: 10px;
+	background-color: #D62929;
+	background-image: -webkit-linear-gradient(90deg,
+											  transparent,
+											  rgba(0, 0, 0, 0.4) 50%,
+											  transparent,
+											  transparent)
+}
+

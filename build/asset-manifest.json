@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fccdbe14.chunk.css",
+    "main.js": "/static/js/main.7a7a46d9.chunk.js",
+    "main.js.map": "/static/js/main.7a7a46d9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.347a7d1a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.347a7d1a.js.map",
+    "static/css/2.65f8c46c.chunk.css": "/static/css/2.65f8c46c.chunk.css",
+    "static/js/2.99da2c24.chunk.js": "/static/js/2.99da2c24.chunk.js",
+    "static/js/2.99da2c24.chunk.js.map": "/static/js/2.99da2c24.chunk.js.map",
+    "static/js/3.ea55d057.chunk.js": "/static/js/3.ea55d057.chunk.js",
+    "static/js/3.ea55d057.chunk.js.map": "/static/js/3.ea55d057.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.65f8c46c.chunk.css.map": "/static/css/2.65f8c46c.chunk.css.map",
+    "static/css/main.fccdbe14.chunk.css.map": "/static/css/main.fccdbe14.chunk.css.map",
+    "static/js/2.99da2c24.chunk.js.LICENSE.txt": "/static/js/2.99da2c24.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/Roboto-Regular.f25bd059.ttf",
+    "static/media/Card.scss": "/static/media/ProximaNovaFont.7bc9ce40.otf",
+    "static/media/boxicons.min.css": "/static/media/boxicons.83ea8051.woff",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/coverslider.scss": "/static/media/maxresdefault.6744adec.jpg",
+    "static/media/profil.7fab25ce.jpg": "/static/media/profil.7fab25ce.jpg",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.347a7d1a.js",
+    "static/css/2.65f8c46c.chunk.css",
+    "static/js/2.99da2c24.chunk.js",
+    "static/css/main.fccdbe14.chunk.css",
+    "static/js/main.7a7a46d9.chunk.js"
+  ]
+}
